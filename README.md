@@ -5,3 +5,4 @@ estruturas usadas:
  - while;
  
  - calculadora em python tem a adição do historico de calculos;
+ - calculadora python que calcula mais que dois numeros;
